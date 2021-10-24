@@ -1,4 +1,4 @@
-function numberToPower (a, b = 2) {
+function numberToPower (a, b) {
   return a**b;
 }
 console.log(numberToPower(3,2))
